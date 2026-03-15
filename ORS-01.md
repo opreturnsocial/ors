@@ -23,7 +23,7 @@ ORS defines two wire formats for embedding posts in bitcoin transactions:
 
 ## Kind Specs
 
-Content kinds (what a post means) are specified separately in the **[ORSK repo](https://github.com/opreturnsocial/orsk)**. The kind registry lists all defined kinds and links to their specs.
+Content kinds (what a post means) are specified separately in the **[ORK repo](https://github.com/opreturnsocial/ork)**. The kind registry lists all defined kinds and links to their specs.
 
 ## Post Identity
 

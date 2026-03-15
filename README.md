@@ -10,7 +10,7 @@ Core protocol specifications for ORS, a permissionless social protocol built on 
 
 ## Kind Specs
 
-Content kind specifications live in the **[ORSK repo](https://github.com/opreturnsocial/orsk)**. The ORSK repo defines what each kind value means (text note, profile update, reply, repost, etc.).
+Content kind specifications live in the **[ORK repo](https://github.com/opreturnsocial/ork)**. The ORK repo defines what each kind value means (text note, profile update, reply, repost, etc.).
 
 ## Overview
 
