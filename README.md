@@ -1,6 +1,6 @@
 # ORS - OP_RETURN Social Protocol
 
-Core protocol specifications for ORS, a permissionless social protocol built on bitcoin.
+Core protocol specifications for [ORS](https://ors.dev), a permissionless social protocol built on bitcoin.
 
 ## Documents
 
