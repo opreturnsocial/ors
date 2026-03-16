@@ -1,4 +1,4 @@
-# ORS - OP_RETURN SOCIAL Protocol
+# ORS - OP_RETURN Social Protocol
 
 Core protocol specifications for ORS, a permissionless social protocol built on bitcoin.
 

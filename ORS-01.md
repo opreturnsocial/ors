@@ -4,7 +4,7 @@
 
 ## What is ORS?
 
-ORS (OP_RETURN SOCIAL) is a minimal, permissionless social protocol built on bitcoin. Posts are embedded directly in bitcoin transactions using `OP_RETURN` outputs, signed with Schnorr keys (BIP-340). No servers, no accounts, no tokens - just bitcoin transactions.
+ORS (OP_RETURN Social) is a minimal, permissionless social protocol built on bitcoin. Posts are embedded directly in bitcoin transactions using `OP_RETURN` outputs, signed with Schnorr keys (BIP-340). No servers, no accounts, no tokens - just bitcoin transactions.
 
 ORS is heavily inspired by [Nostr](https://github.com/nostr-protocol). The core difference is the transport layer - Nostr uses relays (servers), ORS uses the bitcoin blockchain directly.
 
